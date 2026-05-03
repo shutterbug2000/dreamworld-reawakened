@@ -5,4 +5,5 @@
 		<font id="f02" name="FFF Corporate Bold"></font>
 	</fonts>
     <string id="lo_a_1" size="18" color="0x333333" kerning="true" letterSpacing="0" bold="true"/>
+	<string id="op_b_2" size="12" color="0xffffff" kerning="true" letterSpacing="0" bold="true"/>
 </data>
