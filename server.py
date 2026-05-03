@@ -54,9 +54,30 @@ class S(BaseHTTPRequestHandler):
                 self.end_headers()
                 self.wfile.write(json.dumps(response).encode())
             elif(apiName == "pdw.dreamland.tree_top"):
+                count = random.randint(1, 5)
+                pokemonList = [{}] * count
+                encountList = [{}] * count
+                for i in range(0, count):
+                    pokemon = random.randint(0, 649)
+                    print(pokemon)
+                    pokemonList[i] = {}
+                    pokemonList[i]["pokemon_no"] = pokemon
+                    pokemonList[i]["form_no"] = 0
+                    encountList[i] = {}
+                    encountList[i]["pokemon_no"] = pokemon
+                    encountList[i]["form_no"] = 0
+                    encountList[i]["pokename"] = "TODO"
+                    encountList[i]["waza_name_disp"] = "TODO"
+                    encountList[i]["speabi3"] = "TODO"
+
+                response = {
+                    "pokemon_list": pokemonList,
+                    "object_list" : encountList,
+                }
+                print(json.dumps(response))
                 self.send_response(200)
                 self.end_headers()
-                self.wfile.write(b'{"pokemon_list":[], "encount_list":[{}]}')
+                self.wfile.write(json.dumps(response).encode())
             elif(apiName == "pgl.top.init"):
                 self.send_response(200)
                 self.end_headers()
