@@ -12,6 +12,7 @@
     <string id="t_ac_10">Poké Ball Used</string>
 
     <!--Wish Making UI Labels-->
+    <string id="lo_a_1">Loading...</string>
     <string id="t_ad_1">Make a wish? You'll need one Berry.</string>
     <string id="b_ae_3">Yes</string>
     <string id="b_ae_4">No</string>
