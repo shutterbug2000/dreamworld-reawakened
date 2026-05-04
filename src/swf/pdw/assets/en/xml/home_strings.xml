@@ -62,6 +62,23 @@
     <string id="b_aa_4">Send</string>
     <string id="b_aa_5">b_aa_5</string>
     <string id="b_aa_6">Treasure Chest</string>
+    <string id="b_ad_1">Items to be sent to the Entralink</string> <!--This string doesn't belong in this document, apparently?-->
+    <string id="b_ad_6">OK</string>
+    <string id="b_ad_7">Cancel</string>
+    <string id="b_ae_1">Send the item(s) in the list?</string>
+    <string id="b_af_2">Choose "Leave the Pokémon Dream World" to wake your Pokemon and go to the Entree Forest. You can receive your item(s) at the entrance.</string>
+
+    <!-- Friend Board -->
+    <string id="p_aa_1">Friend Board</string>
+    <string id="p_ah_1">No Pokémon have joined you.</string>
+    <string id="p_aa_4">POKÉMON YOU WANT</string>
+    <!--Next line should be "TO TAKE X/10" where X is a variable-->
+    <!--There should be another line somewhere else reading "THE POKEMON MARKED WITH () WILL BE SENT TO THE ENTRALINK" where an image of a blue dot is between ()-->
+    <string id="p_aa_5">Pokémon already sent</string>
+    <string id="p_aa_6">Pokémon to take</string>
+
+    <!--Dream Catalogue-->
+    <string id="i_ab_3">Dream Catalogue</string>
 
     <string id="h_ea_1">Redecorate</string>
     <string id="h_ea_2">Check Treasure Chest</string>
@@ -74,9 +91,6 @@
     <string id="h_ea_9">Go outside</string>
     <string id="h_ea_10">Next wall</string>
     <string id="h_ea_11">PlayerName's room</string>
-
-    <string id="h_ha_1">h_ha_1</string>
-    <string id="h_ha_2">Dream Bridge</string>
 
     <!-- Pokemon Info-->
     <string id="h_ee_1">Pokémon Nickname</string>
