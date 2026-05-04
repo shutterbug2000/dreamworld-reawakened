@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<data locale="ja">
+<data locale="en">
+    <!--Met Pokemon Information Labels--><!--Met Pokemon Information Labels-->
     <string id="t_ac_1">Pokémon Nickname</string>
     <string id="t_ac_2">PGL Nickname</string>
     <string id="t_ac_3">Pokémon</string>
@@ -9,4 +10,11 @@
     <string id="t_ac_7">Gender</string>
     <string id="t_ac_8">Nature</string>
     <string id="t_ac_10">Poké Ball Used</string>
+
+    <!--Wish Making UI Labels-->
+    <string id="lo_a_1">Loading...</string>
+    <string id="t_ad_1">Make a wish? You'll need one Berry.</string>
+    <string id="b_ae_3">Yes</string>
+    <string id="b_ae_4">No</string>
+    <string id="k_af_1">Your Berries</string>
 </data>
