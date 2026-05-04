@@ -90,7 +90,7 @@
     <string id="h_ea_8">Check Friend Board</string>
     <string id="h_ea_9">Go outside</string>
     <string id="h_ea_10">Next wall</string>
-    <string id="h_ea_11">PlayerName's room</string>
+    <string id="h_ea_11">[arg0]'s room</string>
 
     <!-- Pokemon Info-->
     <string id="h_ee_1">Pokémon Nickname</string>
