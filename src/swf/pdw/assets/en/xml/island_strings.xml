@@ -4,7 +4,6 @@
 
     <!--Tree of Dreams Meter-->
     <string id="y_aa_1">Tree of Dreams</string>
-    <string id="y_za_3">Twee of Dweams</string>
     
     <!--I wanna see if these come up anywhere
     <string id="y_aa_5">Test1</string>
@@ -48,6 +47,9 @@
     <!-- game header -->
     <string id="y_ad_1">It's [ポケモン名]!</string>
 
+    <!-- The Pokemon left, I think. Only happens after abort, not refusal-->
+    <string id="y_ag_6">y_ah_1</string>
+
     <!-- game1.swf -->
     <string id="y_ad_10">y_ad_10</string>
     <string id="y_ad_11">y_ad_11</string>
@@ -61,14 +63,14 @@
     <string id="y_ag_2">y_ag_2</string>
 
     <!-- game3.swf -->
-    <string id="y_ad_7">y_ad_7</string>
-    <string id="y_ad_8">y_ad_8</string>
+    <string id="y_ad_7">It looks like [ポケモン名] wants you to fly.</string>
+    <string id="y_ad_8">Enter the Sky Race for [ポケモン名]?</string>
     <string id="y_ag_3">y_ag_3</string>
     <string id="y_ag_4">y_ag_4</string>
 
     <!-- game4.swf -->
-    <string id="y_ad_13">y_ad_13</string>
-    <string id="y_ad_14">y_ad_14</string>
+    <string id="y_ad_13">[ポケモン名] seems interested in playing with Wailord.</string>
+    <string id="y_ad_14">Join [ポケモン名] in playing with Wailord?</string>
     <string id="y_ag_7">y_ag_7</string>
     <string id="y_ag_8">y_ag_8</string>
 
@@ -79,8 +81,8 @@
     <string id="y_ag_11">y_ag_11</string> <!-- abort (choose to quit)-->
 
     <!-- game6.swf -->
-    <string id="y_aa_12">y_aa_12</string>
-    <string id="y_aa_13">y_aa_13</string>
+    <string id="y_aa_12">[ポケモン名] is interested in the treasure box.</string>
+    <string id="y_aa_13">Open the treasure box with [ポケモン名]?</string>
     <string id="y_aa_14">y_aa_14</string>
     <string id="y_aa_15">y_aa_15</string>
 
@@ -91,8 +93,8 @@
     <string id="y_ag_13">y_ag_13</string>
 
     <!-- game8.swf -->
-    <string id="y_ad_20">y_ad_20</string>
-    <string id="y_ad_21">y_ad_21</string>
+    <string id="y_ad_20">It looks like [ポケモン名] wants to collect gems.</string>
+    <string id="y_ad_21">Collect Gems with [ポケモン名]?</string>
     <string id="y_ag_14">y_ag_14</string>
     <string id="y_ag_15">y_ag_15</string>
 
