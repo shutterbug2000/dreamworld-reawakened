@@ -33,18 +33,4 @@
 
 	<!--Leave and stay asleep submenu-->
 	<string id="o_az_1">You have left the Pokémon Dream World.</string>
-
-	<!-- -->
-	<string id="makomo_changeStateStart">makomo_changeStateStart</string>
-	<string id="makomo_changeStateComplete">makomo_changeStateComplete</string>
-	<string id="pdwBridgeMakomoAppear">pdwBridgeMakomoAppear</string>
-	<string id="pdwBridgeMakomoDisappear">pdwBridgeMakomoDisappear</string>
-	<string id="pdwBridgeMakomoChangeState">pdwBridgeMakomoChangeState</string>
-	<string id="pdwBridgeMakomoEmotionChange">pdwBridgeMakomoEmotionChange</string>
-	<string id="pdwBridgeMakomoEmotionRestart">pdwBridgeMakomoEmotionRestart</string>
-	<string id="pdwBridgeMakomoCloud">pdwBridgeMakomoCloud</string>
-	<string id="time">time</string>
-	<string id="easeOutQuart">easeOutQuart</string>
-	<string id="emotionId">emotionId</string>
-
 </data>

@@ -239,14 +239,14 @@
     },
     "35": {
         "pokemon": "Clefairy",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": null,
         "filename": "behdabhj",
         "hidden_ability": "Friend Guard"
     },
     "36": {
         "pokemon": "Clefable",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": null,
         "filename": "bfbiijdb",
         "hidden_ability": "Unaware"
@@ -268,14 +268,14 @@
     "39": {
         "pokemon": "Jigglypuff",
         "type1": "Normal",
-        "type2": "Fairy",
+        "type2": null,
         "filename": "bejjcdcd",
         "hidden_ability": "Friend Guard"
     },
     "40": {
         "pokemon": "Wigglytuff",
         "type1": "Normal",
-        "type2": "Fairy",
+        "type2": null,
         "filename": "bfefbahf",
         "hidden_ability": "Frisk"
     },
@@ -849,7 +849,7 @@
     "122": {
         "pokemon": "Mr. Mime",
         "type1": "Psychic",
-        "type2": "Fairy",
+        "type2": null,
         "filename": "bcbhechf",
         "hidden_ability": "Technician"
     },
@@ -1205,7 +1205,7 @@
     },
     "173": {
         "pokemon": "Cleffa",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": null,
         "filename": "hcfjahf",
         "hidden_ability": "Friend Guard"
@@ -1213,20 +1213,20 @@
     "174": {
         "pokemon": "Igglybuff",
         "type1": "Normal",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "hbjdfdj",
         "hidden_ability": "Friend Guard"
     },
     "175": {
         "pokemon": "Togepi",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": null,
         "filename": "hbciaad",
         "hidden_ability": "Super Luck"
     },
     "176": {
         "pokemon": "Togetic",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": "Flying",
         "filename": "hfighff",
         "hidden_ability": "Super Luck"
@@ -1276,14 +1276,14 @@
     "183": {
         "pokemon": "Marill",
         "type1": "Water",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "hgfccjb",
         "hidden_ability": "Sap Sipper"
     },
     "184": {
         "pokemon": "Azumarill",
         "type1": "Water",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "ibbbaed",
         "hidden_ability": "Sap Sipper"
     },
@@ -1702,14 +1702,14 @@
     },
     "209": {
         "pokemon": "Snubbull",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": null,
         "filename": "bccjhgd",
         "hidden_ability": "Rattled"
     },
     "210": {
         "pokemon": "Granbull",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": null,
         "filename": "bbgecch",
         "hidden_ability": "Rattled"
@@ -2200,21 +2200,21 @@
     "280": {
         "pokemon": "Ralts",
         "type1": "Psychic",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "dbbhjhbf",
         "hidden_ability": "Telepathy"
     },
     "281": {
         "pokemon": "Kirlia",
         "type1": "Psychic",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "dbbbebhj",
         "hidden_ability": "Telepathy"
     },
     "282": {
         "pokemon": "Gardevoir",
         "type1": "Psychic",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "dbaeiged",
         "hidden_ability": "Telepathy"
     },
@@ -2326,7 +2326,7 @@
     "298": {
         "pokemon": "Azurill",
         "type1": "Normal",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "dcajhcbj",
         "hidden_ability": "Sap Sipper"
     },
@@ -2361,7 +2361,7 @@
     "303": {
         "pokemon": "Mawile",
         "type1": "Steel",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "dccjdich",
         "hidden_ability": "Sheer Force"
     },
@@ -3444,7 +3444,7 @@
     "439": {
         "pokemon": "Mime Jr.",
         "type1": "Psychic",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "ceecjfah",
         "hidden_ability": "Technician"
     },
@@ -3646,7 +3646,7 @@
     },
     "468": {
         "pokemon": "Togekiss",
-        "type1": "Fairy",
+        "type1": "Normal",
         "type2": "Flying",
         "filename": "biddegfj",
         "hidden_ability": "Super Luck"
@@ -4406,14 +4406,14 @@
     "546": {
         "pokemon": "Cottonee",
         "type1": "Grass",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "eidfabeh",
         "hidden_ability": "Chlorophyll"
     },
     "547": {
         "pokemon": "Whimsicott",
         "type1": "Grass",
-        "type2": "Fairy",
+        "type2": "null",
         "filename": "eiciegbb",
         "hidden_ability": "Chlorophyll"
     },
